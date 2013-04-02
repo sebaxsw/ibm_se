@@ -20,7 +20,7 @@ int main (void)
 {
   init();
   while(1) {
-    blink(100, 900);
+    blink(1000,3000);
   }
   return 0;
 }
